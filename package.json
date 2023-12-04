@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-notion-starter-kit",
+  "name": "DirectFCL",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "description": "DirectFCL",
+  "author": "Travis Fischer <info@directfcl.com>",
+  "repository": "transitive-bullshit/DirectFCL",
   "license": "MIT",
   "engines": {
     "node": ">=16"
