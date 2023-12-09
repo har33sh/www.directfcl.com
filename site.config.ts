@@ -54,12 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
+      title: 'Products',
       pageId: 'c04e88aacc2a4cc397c087edd44d04d6'
     },
     {
-      title: 'Contact',
-      pageId: 'ToS-f5c4dfcd2eaa4b05b3e64d9189c05aad'
+      title: 'Contact Us',
+      pageId: 'Contact-Us-64c78c79e6104d6183c64ee4370365f0'
     }
   ]
 })
