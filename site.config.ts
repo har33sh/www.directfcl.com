@@ -55,11 +55,15 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Products',
-      pageId: 'Products-ed5cdc3bbaa640f08925dd32173239c3'
+      pageId: 'c04e88aacc2a4cc397c087edd44d04d6'
     },
     {
       title: 'Contact Us',
       pageId: 'Contact-Us-64c78c79e6104d6183c64ee4370365f0'
+    },
+    {
+      title: 'Contact Us',
+      pageId: 'Products-f85b0a11cd5147d8b023d68cfa3d1cd6'
     }
   ]
 })
