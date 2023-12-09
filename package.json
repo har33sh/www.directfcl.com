@@ -3,8 +3,8 @@
   "version": "2.0.0",
   "private": true,
   "description": "DirectFCL",
-  "author": "Travis Fischer <info@directfcl.com>",
-  "repository": "transitive-bullshit/DirectFCL",
+  "author": "DirectFCL <info@directfcl.com>",
+  "repository": "github/DirectFCL",
   "license": "MIT",
   "engines": {
     "node": ">=16"

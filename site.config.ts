@@ -51,17 +51,17 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
 
-//   navigationStyle: 'default'
+  navigationStyle: 'default'
 
-  navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: 'Products',
-      pageId: 'Products-c04e88aacc2a4cc397c087edd44d04d6'
-    },
-    {
-      title: 'Contact',
-      pageId: 'Contact-Us-64c78c79e6104d6183c64ee4370365f0'
-    }
-  ]
+//   navigationStyle: 'custom',
+//   navigationLinks: [
+//     {
+//       title: 'Products',
+//       pageId: 'Products-c04e88aacc2a4cc397c087edd44d04d6'
+//     },
+//     {
+//       title: 'Contact',
+//       pageId: 'Contact-Us-64c78c79e6104d6183c64ee4370365f0'
+//     }
+//   ]
 })
